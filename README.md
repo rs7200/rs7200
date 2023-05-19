@@ -7,6 +7,8 @@
 ---
 
 ### :man_technologist: About Me : I am a java developer from Michigan. 
--I am currently a student learning programming.
--In my free time I do small programming projects and play video games.
--How to reach me: Rspialek2@gmail.com
+### -I am currently a student learning programming.
+
+### -In my free time I do small programming projects and play video games.
+
+### -How to reach me: Rspialek2@gmail.com
