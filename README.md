@@ -12,5 +12,8 @@
 ### -In my free time I do small programming projects and play video games.
 
 ### -How to reach me: Rspialek2@gmail.com
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
